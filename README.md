@@ -1,11 +1,11 @@
-# MoviesHQ Project
+# My-Movie Project
 
 
 ![Project Logo](url_to_your_logo.png) <!-- If you have a project logo, include it here -->
 
-Welcome to moviesHQ, your go-to platform for movie enthusiasts to discover, explore, and keep track of their favorite movies and TV shows.
+Welcome to My-Movie, your go-to platform for movie enthusiasts to discover, explore, and keep track of their favorite movies and TV shows.
 
-[Live Demo](https://manav-gopal.github.io/MoviesHQ/)
+
 
 
 ## Table of Contents
@@ -20,7 +20,7 @@ Welcome to moviesHQ, your go-to platform for movie enthusiasts to discover, expl
 
 ## Introduction
 
-The moviesHQ project is developed using React and aims to create a user-friendly platform that allows users to:
+The My-Movie project is developed using React and aims to create a user-friendly platform that allows users to:
 
 - Browse a vast collection of movies and TV shows.
 - Get detailed information about movies, including cast, crew, plot summaries, and ratings.
@@ -36,15 +36,15 @@ The moviesHQ project is developed using React and aims to create a user-friendly
 
 ## Installation
 
-To run the moviesHQ project locally, follow these steps:
+To run the My-Movie project locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/moviesHQ.git`
-2. Navigate to the project directory: `cd moviesHQ`
+1. Clone this repository: `git clone https://github.com/yourusername/My-Movie.git`
+2. Navigate to the project directory: `cd My-Movie`
 3. Install dependencies: `npm install` or `yarn install`
 
 #### Dependencies
 
-The moviesHQ project utilizes the following key dependencies:
+The My-Movie project utilizes the following key dependencies:
 
 - [@reduxjs/toolkit](https://redux-toolkit.js.org/): A package for efficient Redux development.
 - [axios](https://axios-http.com/): A promise-based HTTP client for making API requests.
@@ -72,10 +72,10 @@ The moviesHQ project utilizes the following key dependencies:
 Include some screenshots of your project here to give users a visual representation of what to expect. You can embed images using Markdown like this:
 
 #### Homepage
-![Screenshot 1](https://res.cloudinary.com/dq6uhnvgl/image/upload/v1692991612/MoviesHQ/fqxsz3hgzwdgixrbpywd.png)
+![Screenshot 1](https://res.cloudinary.com/dq6uhnvgl/image/upload/v1692991612/My-Movie/fqxsz3hgzwdgixrbpywd.png)
 
 #### Movie Details
-![Screenshot 2](https://res.cloudinary.com/dq6uhnvgl/image/upload/v1692991612/MoviesHQ/muqm0tjmsb6andxdk5ho.png)
+![Screenshot 2](https://res.cloudinary.com/dq6uhnvgl/image/upload/v1692991612/My-Movie/muqm0tjmsb6andxdk5ho.png)
 
 ## License
 
